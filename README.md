@@ -52,7 +52,7 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy? template=https://github.com/mhlinkss/TovinoBotV3/edit/main/README.md)</br>
 
 <details><summary>Deploy To VPS</summary>
 <p>
